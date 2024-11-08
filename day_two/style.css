@@ -1,0 +1,8 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R.681eebc61b46f976bf88c87305899f05?rik=MefaFcHhHL%2fj0w&riu=http%3a%2f%2fwww.legat.com%2fwp-content%2fuploads%2f2022%2f09%2fJohnHancock-CollegePreparatory-HighSchool.jpg&ehk=lXUDLenFhmsC5zW1LMYhRZcFth4ATHBRvWZo9Ym%2bYws%3d&risl=&pid=ImgRaw&r=0"); /* The image used */
+   
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+  
